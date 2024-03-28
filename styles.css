@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.star:after {
+  content:" *";
+  color: red;
+}
